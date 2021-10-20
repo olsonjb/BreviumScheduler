@@ -1,0 +1,11 @@
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\bin\Debug\netcoreapp1.1\BreviumScheduler.deps.json
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\bin\Debug\netcoreapp1.1\BreviumScheduler.runtimeconfig.json
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\bin\Debug\netcoreapp1.1\BreviumScheduler.runtimeconfig.dev.json
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\bin\Debug\netcoreapp1.1\BreviumScheduler.dll
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\bin\Debug\netcoreapp1.1\BreviumScheduler.pdb
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.csprojAssemblyReference.cache
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.csproj.CoreCompileInputs.cache
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.AssemblyInfo.cs
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.dll
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.pdb
+C:\Users\jbols\source\VSrepos\BreviumScheduler\BreviumScheduler\obj\Debug\netcoreapp1.1\BreviumScheduler.AssemblyInfoInputs.cache
